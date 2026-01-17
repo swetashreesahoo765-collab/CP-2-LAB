@@ -16,7 +16,7 @@ int max (int a, int b, int c)
 	{
 		if(b>c)
 		{
-			return c;
+			return b;
 		}
 		else
 		{
